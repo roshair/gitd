@@ -1,9 +1,11 @@
 # gitdemo
 
-This repository contains source code for a github demo
+##This repository contains source code for a github demo
 
 
 This is my first commit
+
+#This is a new commit
 
 This is my feature branch
 
